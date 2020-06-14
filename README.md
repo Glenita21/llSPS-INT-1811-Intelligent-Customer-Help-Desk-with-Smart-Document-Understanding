@@ -1,6 +1,10 @@
 # llSPS-INT-1811-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
 
+Project Demonstration video
+
+https://youtu.be/_DqJmYwVPwk
+
 Node-Red UI Link
 https://node-red-rcmiz.eu-gb.mybluemix.net/ui/#!/0?socketid=V4SdGHy8VfRUGI2WAAAe
 
